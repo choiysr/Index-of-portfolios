@@ -1,1 +1,3 @@
-# Index-of-portfolios
+# Index
+
+https://github.com/choiysr/announcer
