@@ -20,6 +20,6 @@
 
 ### Project 4. Wanna get mask 
 - 수행기간 : 2020.03.09 - 진행중<br>
-- 사용기술 : Spring boot, JPA Hibernate, AWS RDS(MySql), Node.js etc.,<br>
+- 사용기술 : Spring boot, MongoDB, Selenium, Jsoup etc.,<br>
 - 개요 : 네이버 스토어의 마스크 입고시간을 파악해 해당시간에 맞춰 자동으로 마스크를 주문하고, 게릴라 형식의 판매 사이트에서 일시품절 상태인 마스크가 입고되면 자동으로 카카오톡 메세지로 알람을 보내는 시스템<br>
 - direct : https://github.com/SOOHYUNLIM/wannagetmask_back<br>
