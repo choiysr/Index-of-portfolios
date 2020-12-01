@@ -30,3 +30,4 @@
 - 사용기술 : Spring boot, JPA Hibernate, AWS RDS(MySql), AWS EC2, Selenium, Jsoup, Oauth2.0 인증방식 etc., <br>
 - 개요 : 실시간/일별/주간/월간 음악차트를 주기에 맞게 크롤링 하고 유튜브에서 해당 음악의 official 비디오를 확인하여 크롬 확장프로그램에서 음원차트의 음악을 유튜브 iframe을 통해 즉시 재생할 수 있는 뮤직 플레이어. 차트에 있는 음악으로 자신만의 플레이리스트를 만들 수 있음.<br>
 - direct : https://github.com/choiysr/chromeExtension_JUKEBOX<br>
+- 서비스URL : https://chrome.google.com/webstore/detail/chromeextensionjukebox/edppdifocfocncfgkknpofilfclchoal?hl=ko
